@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1044637791712",
+    "firebase_url": "https://ass5-q2-default-rtdb.firebaseio.com",
+    "project_id": "ass5-q2",
+    "storage_bucket": "ass5-q2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044637791712:android:c16449720911f9f5eca785",
+        "android_client_info": {
+          "package_name": "com.example.smart_room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044637791712-amts9qrb4q1p3lqgnd602c89ku738dua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUp-GO9xpv3bPn4kNDRfE3qQZRLQBgnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044637791712-amts9qrb4q1p3lqgnd602c89ku738dua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
